@@ -4,5 +4,8 @@
   <h3>Python Developer</h3>
 </div>
 
-
-<a href="https://t.me/heh_dude"><h3>Telegram</h3></a>
+<div id="badges">
+  <a href="https://t.me/heh_dude">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegrram Badge"/>
+  </a>
+</div>
