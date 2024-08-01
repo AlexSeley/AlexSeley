@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeley&layout=compact&theme=tokyonight" alt="alex's top languages" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif">
 
 ---
 
