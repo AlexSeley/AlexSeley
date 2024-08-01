@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexSeley&show_icons=true&theme=tokyonight&count_private=true" alt="kot's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeley&layout=compact&theme=tokyonight" alt="kot's top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexSeley&show_icons=true&theme=tokyonight&count_private=true" alt="alex's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeley&layout=compact&theme=tokyonight" alt="alex's top languages" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
